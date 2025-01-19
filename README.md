@@ -70,7 +70,7 @@ pip install langchain
 - Tune LLM parameters to optimize results for specific agricultural tasks.
 
 ## Author
-Developed by [Your Name].
+Developed by Siraj Us Salekin.
 
 ## License
 This project is licensed under the MIT License.
