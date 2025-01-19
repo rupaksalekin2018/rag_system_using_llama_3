@@ -76,5 +76,5 @@ Developed by Siraj Us Salekin.
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, reach out to: your.email@example.com
+For queries, reach out to: sirajussalekinrupak@gmail.com
 
