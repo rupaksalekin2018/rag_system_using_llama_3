@@ -1,4 +1,4 @@
-# Agricultural AI RAG System
+# Agricultural AI RAG System Using Langchain & llama 3
 
 ## Project Overview
 The **Agricultural AI RAG System** leverages LangChain's capabilities to facilitate efficient retrieval-augmented generation (RAG) for agricultural data analysis using llama 3. This system aims to enhance decision-making processes by utilizing state-of-the-art AI models to process and analyze agricultural datasets. Any book, database, text file can be used to build the RAG system. This project can be a great example. This project is done on colab because of GPU support. It also be run on local machine. For that, set up a virtual enviroment and intall the required libraries. Also, remove the "pip install <librabry>" lines should be omitted. Ollama also helped to run the saved model and do the interferences for the chatbot.
